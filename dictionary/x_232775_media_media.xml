@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="alm_asset" label="Media" max_length="40" name="x_232775_media_media" type="collection"/>
+</database>
